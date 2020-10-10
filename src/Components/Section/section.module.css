@@ -1,0 +1,14 @@
+.section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  display: inline-block;
+  width: 100%;
+  margin: 10px;
+  color: rgb(44, 42, 65);
+}

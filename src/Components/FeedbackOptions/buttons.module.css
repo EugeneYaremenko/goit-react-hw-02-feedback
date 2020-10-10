@@ -1,0 +1,27 @@
+.buttonGood {
+  background-color: rgb(43, 153, 91);
+  border: 1px solid rgb(33, 126, 74);
+}
+
+.buttonGood:hover {
+  background-color: rgb(75, 183, 141);
+}
+
+.buttonNeutral {
+  background-color: rgb(203, 212, 123);
+  border: 1px solid rgb(159, 179, 96);
+}
+
+.buttonNeutral:hover {
+  background-color: rgb(209, 235, 150);
+}
+
+
+.buttonBad {
+  background-color: rgb(223, 99, 62);
+  border: 1px solid rgb(172, 151, 146);
+}
+
+.buttonBad:hover {
+  background-color: rgb(143, 51, 51);
+}

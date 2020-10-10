@@ -1,0 +1,21 @@
+.list {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.list li {
+  color: rgb(77, 82, 82);
+  border: 2px solid rgb(77, 82, 82);
+  border-radius: 10px;
+  width: 30%;
+}
+
+.statisticsResult {
+  display: inline-block;
+  width: 100%;
+  color: rgb(112, 55, 41);
+  font-size: 24px;
+}
