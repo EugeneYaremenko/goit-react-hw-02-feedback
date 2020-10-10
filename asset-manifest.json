@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-02-feedback/static/css/main.42072f2b.chunk.css",
+    "main.js": "/goit-react-hw-02-feedback/static/js/main.69461483.chunk.js",
+    "main.js.map": "/goit-react-hw-02-feedback/static/js/main.69461483.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-02-feedback/static/js/runtime-main.9cb7e66e.js",
+    "runtime-main.js.map": "/goit-react-hw-02-feedback/static/js/runtime-main.9cb7e66e.js.map",
+    "static/js/2.b30165f6.chunk.js": "/goit-react-hw-02-feedback/static/js/2.b30165f6.chunk.js",
+    "static/js/2.b30165f6.chunk.js.map": "/goit-react-hw-02-feedback/static/js/2.b30165f6.chunk.js.map",
+    "index.html": "/goit-react-hw-02-feedback/index.html",
+    "precache-manifest.84f5bc9833a2b4fbb5dbc766bb559164.js": "/goit-react-hw-02-feedback/precache-manifest.84f5bc9833a2b4fbb5dbc766bb559164.js",
+    "service-worker.js": "/goit-react-hw-02-feedback/service-worker.js",
+    "static/css/main.42072f2b.chunk.css.map": "/goit-react-hw-02-feedback/static/css/main.42072f2b.chunk.css.map",
+    "static/js/2.b30165f6.chunk.js.LICENSE.txt": "/goit-react-hw-02-feedback/static/js/2.b30165f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cb7e66e.js",
+    "static/js/2.b30165f6.chunk.js",
+    "static/css/main.42072f2b.chunk.css",
+    "static/js/main.69461483.chunk.js"
+  ]
+}
